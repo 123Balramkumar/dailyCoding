@@ -1,3 +1,4 @@
+// print last three element from an array
 let fruits = ["Mango", "Banana", "Apple", "kiwi", "grapes"];
 var start = fruits.length-3;
 for(i=start; i<fruits.length;i++){
