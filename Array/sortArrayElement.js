@@ -1,3 +1,3 @@
-var element = [12,2,9,7,38,55,45];
+var element =  ['March', 'Jan', 'Feb', 'Dec'];
 element.sort();
 console.log(element);
