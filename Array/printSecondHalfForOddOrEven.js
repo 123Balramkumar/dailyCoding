@@ -4,6 +4,7 @@ if(table.length%2==0){
 
 }
 else{
+    // include middle
     var start = (table.length-1)/2;
 }
 for(i=start; i<table.length; i++){
