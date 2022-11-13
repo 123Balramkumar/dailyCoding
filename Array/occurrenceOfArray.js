@@ -10,10 +10,14 @@
 // }
 
 // console.log(temp);
+
 var myArr = [1,2,3,4,7,1,3,5,6,1,];
 var count = {};
 for(var i=0; i<myArr.length;i++){
   var num = myArr[i];
-  count[num]= count[num]? count[num]+1 : 1;
-} 
-console.log(count);
+
+  count[num] = count[num]? count[num]+1 : 1;
+}
+ console.log(count);
+
+ 

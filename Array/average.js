@@ -1,4 +1,4 @@
-// average of an eve number 
+// average of an even number 
 var num = [12,9,4,3,1,45,5];
 var sum =0;
 var count = 0;
@@ -10,3 +10,4 @@ if(num[i]%2==0){
 }
 }
 console.log("Average = "+sum/count);
+

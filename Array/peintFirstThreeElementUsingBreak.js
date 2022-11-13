@@ -1,4 +1,4 @@
-// frint first three element using break
+// print first three element using break
 
 let fruits = ["Mango", "Banana", "Apple", "kiwi", "grapes"];
 for (var i = 0; i < fruits.length; i++) {
